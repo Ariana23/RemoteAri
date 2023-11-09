@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000747714948",
+    "project_id": "remoteari",
+    "storage_bucket": "remoteari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000747714948:android:f725349601061445c235d1",
+        "android_client_info": {
+          "package_name": "com.example.remoteari"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPgzFQLxJcAqkNA1XUWFok8D6RSFfC7ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
